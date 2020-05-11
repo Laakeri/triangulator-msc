@@ -6,4 +6,12 @@
 
 
 ## Usage:
-./triangulator tw < ../../instances/pace2017_tw_ex/ex002.gr
+The first argument denotes the problem. The instance is read from the standard input. See the instances directory for examples of input formats.
+
+Example use:
+
+`./src/triangulator tw < ../instances/pace2017_tw_ex/ex002.gr`
+
+Treewidth is denoted with `tw`, minimum fill-in with `minfill`, generalized hypertreewidth with `ghtw`, fractional hypertreewidth with `fhtw`, total table size with `tts`, maximum compatibility (multi-state) with `phyl_maxcomp`, binary maximum compatibility with `phyl_bin_maxcomp`, perfect phylogeny with `phyl_perf` and treelength with `tl`.
+The implementation also includes utilities to count the numbers of minimal separators and potential maximal cliques, used with `count_ms` and `count_pmc` arguments (for these the input graph should be connected).
+
