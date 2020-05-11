@@ -19,5 +19,5 @@ The implementation also includes utilities to count the numbers of minimal separ
 ## Installing without CPLEX:
 Triangulator can be modified to exclude generalized and fractional hypertreewidth and multi-state maximum compatibility to allow the usage without CPLEX.
 To do this, one needs to edit only `Makefile`, `main.cpp`, `phylogeny.cpp` and `phylogeny.hpp`.
-All references to `ghtw.\*`, `ftw.\*`, `hypercost.\*` and `maxhs_iface.\*` should be removed from these files.
+All references to `ghtw.*`, `ftw.*`, `hypercost.*` and `maxhs_iface.*` should be removed from these files.
 The `CharRemoveMaxSat` functions should be removed from `phylogeny.cpp` and `phylogeny.hpp`.
