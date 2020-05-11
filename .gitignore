@@ -1,0 +1,3 @@
+src/triangulator/*.d
+src/triangulator/*.o
+src/triangulator/triangulator
