@@ -1,4 +1,4 @@
-instance,tw,info_phyl_perf_n,info_phyl_perf_kn,triang_phyl_perf,info_phyl_perf_phase,info_phyl_perf_minseps,info_phyl_perf_pmcs
+instance,has_pp,n,kn,time,phase,minseps,pmcs
 phylogeny_ms_perf_exp1_n_40_0.phy,1,332,75,0.08,4,22,18
 phylogeny_ms_perf_exp1_k_10_0.phy,1,3077,1206,19.41,4,113,16
 phylogeny_ms_perf_exp1_k_10_10.phy,0,2973,1289,24.26,4,245,14

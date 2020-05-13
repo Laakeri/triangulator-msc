@@ -1,4 +1,4 @@
-instance,tw,info_phyl_maxcomp_n,info_phyl_maxcomp_kn,triang_phyl_maxcomp,info_phyl_maxcomp_phase,info_phyl_maxcomp_minseps,info_phyl_maxcomp_pmcs
+instance,char_rem,n,kn,time,phase,minseps,pmcs
 phylogeny_real_alcataenia.phy,5,21,21,0.06,4,11,19
 phylogeny_real_chinese.phy,6,30,30,0.08,4,17,38
 phylogeny_real_indo.phy,13,864,836,2033.05,4,21594,407354

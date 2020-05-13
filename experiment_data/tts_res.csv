@@ -1,4 +1,4 @@
-instance,tw,triang_tts,edfs
+instance,tts,triang,edfs
 bayes-net_alarm.net,996,0.01,0.8799999999999999
 bayes-net_andes.net,-1,TO,TO
 bayes-net_asia.net,40,0.02,0.32999999999999996

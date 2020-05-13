@@ -1,4 +1,4 @@
-instance,tw,info_tts_n,info_tts_kn,triang_tts,info_tts_phase,info_tts_minseps,info_tts_pmcs
+instance,tts,n,kn,time,phase,minseps,pmcs
 bayes-net_alarm.net,996,37,7,0.01,4,11,22
 bayes-net_andes.net,-1,223,133,TO,2,541732161,8
 bayes-net_asia.net,40,8,4,0.02,4,2,4

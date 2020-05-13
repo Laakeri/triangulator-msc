@@ -1,4 +1,4 @@
-instance,tw,info_tl_n,info_tl_kn,triang_tl,info_tl_phase,info_tl_minseps,info_tl_pmcs
+instance,tl,n,kn,time,phase,minseps,pmcs
 dimacs_anna.graph,2,138,0,0.02,1,0,0
 dimacs_david.graph,2,87,0,0.04,1,0,0
 dimacs_DSJC1000.1.graph,-1,1000,1000,TO,2,115961218,0

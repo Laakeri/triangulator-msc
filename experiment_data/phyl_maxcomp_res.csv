@@ -1,4 +1,4 @@
-instance,tw,gus_ip,triang_phyl_maxcomp,binred_ip_pp
+instance,char_rem,minsep_ip,triang,bin_ip
 phylogeny_real_alcataenia.phy,5,0.11,0.06,0.28
 phylogeny_real_chinese.phy,6,0.07,0.08,0.28
 phylogeny_real_indo.phy,13,TO,2033.05,1.76

@@ -1,4 +1,4 @@
-instance,tw,info_phyl_bin_maxcomp_n,info_phyl_bin_maxcomp_kn,triang_phyl_bin_maxcomp,info_phyl_bin_maxcomp_phase,info_phyl_bin_maxcomp_minseps,info_phyl_bin_maxcomp_pmcs
+instance,char_rem,n,kn,time,phase,minseps,pmcs
 phylogeny_ms_bin_exp1_n_100_0.phy,8,140,129,0.11,4,148,410
 phylogeny_ms_bin_exp1_n_1000_0.phy,-1,1394,1139,TO,4,264469,2707072
 phylogeny_ms_bin_exp1_n_1000_10.phy,134,1522,1203,798.87,4,49125,496199

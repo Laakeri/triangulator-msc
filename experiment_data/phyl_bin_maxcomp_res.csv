@@ -1,4 +1,4 @@
-instance,tw,gus_ip,triang_phyl_bin_maxcomp,binred_ip_pp
+instance,char_rem,minsep_ip,triang,bin_ip
 phylogeny_ms_bin_exp1_n_100_0.phy,8,1.36,0.11,0.08
 phylogeny_ms_bin_exp1_n_1000_0.phy,184,TO,TO,23.36
 phylogeny_ms_bin_exp1_n_1000_10.phy,134,TO,798.87,27.02

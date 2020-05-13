@@ -1,4 +1,4 @@
-instance,tw,triang_tl
+instance,tl,triang
 dimacs_anna.graph,2,0.02
 dimacs_david.graph,2,0.04
 dimacs_DSJC1000.1.graph,-1,TO

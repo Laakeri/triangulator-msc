@@ -1,4 +1,4 @@
-instance,tw,info_tw_n_gradu_21,info_tw_kn_gradu_21,triang_tw_gradu_21,info_tw_phase_gradu_21,info_tw_minseps_gradu_21,info_tw_pmcs_gradu_21
+instance,tw,n,kn,time,phase,minseps,pmcs
 CFG_contiki_contiki_abc_abc_close.gr,1,7,0,0.14,1,0,0
 CFG_contiki_contiki_abc_abc_input.gr,1,10,0,0.12,1,0,0
 CFG_contiki_contiki_abc_abc_open.gr,1,15,0,0.16,1,0,0

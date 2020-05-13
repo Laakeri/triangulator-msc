@@ -1,4 +1,4 @@
-instance,tw,info_mf_n,info_mf_kn,triang_mf,info_mf_phase,info_mf_minseps,info_mf_pmcs
+instance,mf,n,kn,time,phase,minseps,pmcs
 named-graphs_AhrensSzekeresGeneralizedQuadrangleGraph_3.gr,135,27,27,0.15,4,54,297
 named-graphs_Balaban10Cage.gr,-1,70,70,MO,2,536858328,0
 named-graphs_Balaban11Cage.gr,-1,112,112,MO,2,486092719,0
