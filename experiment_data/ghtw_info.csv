@@ -1,4 +1,4 @@
-instance,tw,info_ghtw_n,info_ghtw_kn,triang_ghtw,info_ghtw_phase,info_ghtw_minseps,info_ghtw_pmcs
+instance,ghtw,n,kn,time,phase,minseps,pmcs
 hypergraphs_10.dtl,2,5,0,0.4,1,0,0
 hypergraphs_11.dtl,2,5,0,0.4,1,0,0
 hypergraphs_12.dtl,2,6,0,0.4,1,0,0

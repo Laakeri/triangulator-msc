@@ -1,4 +1,4 @@
-instance,tw,triang_ghtw,balsepkdecomp,globalbipkdecomp,localbipkdecomp,frasmt_ghtw
+instance,ghtw,triang,balsepkdecomp,globalbipkdecomp,localbipkdecomp,frasmt
 hypergraphs_10.dtl,2,0.4,0.56,0.7,0.2,9.88
 hypergraphs_11.dtl,2,0.4,1.58,0.66,0.21,9.86
 hypergraphs_12.dtl,2,0.4,1.55,0.7,0.19,10.0

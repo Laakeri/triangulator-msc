@@ -1,4 +1,4 @@
-instance,tw,triang_fhtw,frasmt_fhtw
+instance,fhtw,triang,frasmt
 hypergraphs_10.dtl,1.500,0.01,3.71
 hypergraphs_11.dtl,1.500,0.03,2.89
 hypergraphs_12.dtl,2.000,0.02,3.2
