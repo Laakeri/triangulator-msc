@@ -1,5 +1,5 @@
 # Triangulator
-Triangulator is an implementation of the Bouchitté-Todinca algorithm developed in my master's thesis *Finding Optimal Tree Decompositions*.
+Triangulator is an implementation of the Bouchitté-Todinca algorithm developed in my master's thesis [Finding Optimal Tree Decompositions](http://tuukkakorhonen.com/papers/msc-thesis.pdf).
 
 
 [src/](https://github.com/Laakeri/triangulator-gradu/tree/master/src) contains the source code and the instructions to install and use Triangulator.
