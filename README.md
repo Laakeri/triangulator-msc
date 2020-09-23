@@ -18,4 +18,4 @@ Earlier versions of Triangulator have been documented in
 
 [Finding Most Compatible Phylogenetic Trees over Multi-State Characters](https://tuukkakorhonen.com/papers/kj.aaai20.pdf). Tuukka Korhonen and Matti Järvisalo. In Proceedings of AAAI 2020.
 
-[Solving Graph Problems via Potential Maximal Cliques: An Experimental Evaluation of the Bouchitté-Todinca Algorithm]([https://tuukkakorhonen.com/papers/kbj.jea19.pdf]). Tuukka Korhonen, Jeremias Berg and Matti Järvisalo. ACM Journal of Experimental Algorithmics, Volume 24 Issue 1, 2019.
+[Solving Graph Problems via Potential Maximal Cliques: An Experimental Evaluation of the Bouchitté-Todinca Algorithm](https://tuukkakorhonen.com/papers/kbj.jea19.pdf). Tuukka Korhonen, Jeremias Berg and Matti Järvisalo. ACM Journal of Experimental Algorithmics, Volume 24 Issue 1, 2019.
